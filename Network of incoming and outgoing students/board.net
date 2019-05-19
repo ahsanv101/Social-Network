@@ -1,0 +1,446 @@
+*Vertices 135 ic Black 
+1 'Marketing' ic Black 
+2 'Club_Events' ic Black 
+3 'Advertisement' ic Black  
+4 'HU_School_Events' ic Black 
+5 'Aquaintance' ic Black 
+6 'Sindh Board' ic Black 
+7 'O/A Level Board' ic Black 
+8 'Agha Khan Board' ic Black 
+9 'Federal Board' ic Black 
+10 '1' ic Blue
+11 '2' ic Pink box
+12 '3' ic Pink box
+13 '4' ic Pink box
+14 '5' ic Blue
+15 '6' ic Blue
+16 '7' ic Blue
+17 '8' ic Pink box
+18 '9' ic Pink box
+19 '10' ic Pink box
+20 '11' ic Blue
+21 '12' ic Blue
+22 '13' ic Pink box
+23 '14' ic Blue
+24 '15' ic Blue
+25 '16' ic Blue
+26 '17' ic Pink triangle
+27 '18' ic Pink box
+28 '19' ic Pink box
+29 '20' ic Blue triangle
+30 '21' ic Blue
+31 '22' ic Blue
+32 '23' ic Blue
+33 '24' ic Pink box
+34 '25' ic Pink box
+35 '26' ic Blue box
+36 '27' ic Blue
+37 '28' ic Pink box
+38 '29' ic Pink triangle
+39 '30' ic Pink box
+40 '31' ic Blue
+41 '32' ic Blue
+42 '33' ic Pink box
+43 '34' ic Pink box
+44 '35' ic Pink
+45 '36' ic Blue box
+46 '37' ic Blue
+47 '38' ic Blue box
+48 '39' ic Pink box
+49 '40' ic Pink box
+50 '41' ic Blue box
+51 '42' ic Blue
+52 '43' ic Pink box
+53 '44' ic Blue triangle
+54 '45' ic Pink box
+55 '46' ic Blue
+56 '47' ic Pink box
+57 '48' ic Blue box
+58 '49' ic Blue box
+59 '50' ic Pink box
+60 '51' ic Pink box
+61 '52' ic Blue
+62 '53' ic Blue box
+63 '54' ic Pink triangle
+64 '55' ic Blue
+65 '56' ic Pink box
+66 '57' ic Pink box
+67 '58' ic Blue triangle
+68 '59' ic Blue box
+69 '60' ic Blue box
+70 '61' ic Blue
+71 '62' ic Blue triangle
+72 '63' ic Blue
+73 '64' ic Blue
+74 '65' ic Pink box
+75 '66' ic Blue box
+76 '67' ic Blue
+77 '68' ic Blue box
+78 '69' ic Blue
+79 '70' ic Blue
+80 '71' ic Pink box
+81 '72' ic Blue
+82 '73' ic Pink
+83 '74' ic Pink box
+84 '75' ic Blue
+85 '76' ic Blue
+86 '77' ic Pink box
+87 '78' ic Pink
+88 '79' ic Blue
+89 '80' ic Blue triangle
+90 '81' ic Pink
+91 '82' ic Blue box
+92 '83' ic Blue
+93 '84' ic Blue
+94 '85' ic Pink
+95 '86' ic Pink
+96 '87' ic Blue
+97 '88' ic Blue
+98 '89' ic Blue box
+99 '90' ic Blue box
+100 '91' ic Pink box
+101 '92' ic Blue
+102 '93' ic Blue
+103 '94' ic Pink box
+104 '95' ic Blue box
+105 '96' ic Pink box
+106 '97' ic Blue
+107 '98' ic Blue triangle
+108 '99' ic Blue
+109 '100' ic Blue triangle
+110 '101' ic Pink triangle
+111 '102' ic Pink box
+112 '103' ic Pink triangle
+113 '104' ic Pink box
+114 '105' ic Blue box
+115 '106' ic Pink
+116 '107' ic Blue box
+117 '108' ic Blue box
+118 '109' ic Blue box
+119 '110' ic Blue
+120 '111' ic Pink
+121 '112' ic Pink box
+122 '113' ic Pink box
+123 '114' ic Pink
+124 '115' ic Blue box
+125 '116' ic Pink box
+126 '117' ic Blue box
+127 '118' ic Blue
+128 '119' ic Blue
+129 '120' ic Blue box
+130 '121' ic Blue
+131 '122' ic Blue
+132 '123' ic Blue
+133 '124' ic Green
+134 '125' ic Blue
+135 '126' ic Blue
+*Arcslist 
+10 6 
+10 6 
+10 6 
+11 9 
+12 7 
+13 8 
+13 57
+13 8 
+13 8 
+13 8 
+13 8 
+14 7 
+14 12
+14 7 
+14 7 
+14 7 
+15 8 
+15 8 
+15 8 
+15 8 
+15 8 
+16 8 
+16 8 
+16 8 
+16 8 
+16 8 
+17 7 
+18 7 
+18 7 
+18 7 
+18 7 
+19 5
+19 6 
+19 6 
+19 6 
+19 6 
+20 7 
+20 7 
+22 7 
+22 7 
+23 7 
+23 7 
+23 7 
+23 7 
+24 6 
+24 6 
+25 7 
+26 7 
+27 7 
+28 7 
+29 7 
+30 7 
+31 7 
+32 7 
+32 7 
+32 7 
+33 7 
+34 6 
+35 69
+35 7 
+36 7 
+37 51
+37 7 
+37 7 
+37 7 
+37 7 
+37 7 
+38 7 
+38 7 
+38 7 
+38 7 
+39 6 
+40 7 
+40 7 
+41 8 
+41 8 
+42 6 
+43 6 
+43 6 
+43 6 
+43 6 
+44 9 
+44 9 
+45 7 
+45 7 
+45 7 
+45 7 
+45 7 
+46 7 
+47 7 
+47 72
+47 7 
+48 7 
+49 8 
+49 8 
+49 8 
+49 8 
+49 8 
+50 7 
+51 6 
+52 7 
+52 7 
+52 7 
+52 7 
+53 7 
+54 9 
+55 7 
+55 7 
+55 7 
+55 7 
+56 7 
+56 7 
+56 7 
+56 7 
+57 7 
+57 7 
+58 7 
+59 7 
+60 7 
+60 67
+60 7 
+61 8 
+61 8 
+61 8 
+62 6 
+62 53
+62 6 
+63 7 
+63 7 
+63 7 
+64 9 
+65 6 
+65 5
+65 6 
+65 6 
+65 6 
+65 6 
+66 7 
+67 8 
+67 8 
+67 108
+67 8 
+68 8 
+68 8 
+68 8 
+68 67
+68 8 
+68 83
+68 8 
+69 8 
+70 7 
+70 7 
+71 7 
+72 7 
+72 7 
+72 7 
+72 7 
+72 7 
+72 12
+72 7 
+73 7 
+74 7 
+75 6 
+75 83
+75 6 
+75 6 
+76 7 
+77 27
+77 7 
+77 7 
+77 7 
+78 7 
+79 7 
+80 7 
+80 7 
+81 7 
+81 7 
+81 7 
+81 7 
+81 7 
+82 7 
+82 7 
+82 77
+82 7 
+82 7 
+83 6 
+84 7 
+85 7 
+86 7 
+87 7 
+88 8 
+88 8 
+88 8 
+89 7 
+91 67
+91 6 
+92 7 
+93 7 
+94 7 
+95 15
+95 7 
+95 71
+95 7 
+95 98
+95 7 
+95 7 
+95 7 
+96 8 
+96 108
+96 8 
+96 8 
+96 8 
+96 8 
+97 7 
+98 7 
+99 7 
+100 7 
+101 7 
+102 7 
+102 7 
+103 77
+103 7 
+103 7 
+103 7 
+103 7 
+104 6 
+104 6 
+105 6 
+106 7 
+106 7 
+106 7 
+106 7 
+107 7 
+108 53
+108 8 
+109 103
+110 7 
+110 7 
+110 7 
+110 7 
+112 6 
+112 6 
+113 7 
+113 7 
+113 7 
+113 7 
+114 9 
+115 6 
+116 6 
+116 6 
+116 6 
+116 6 
+116 6 
+117 6 
+117 6 
+117 6 
+117 6 
+117 6 
+118 7 
+118 7 
+118 7 
+120 7 
+120 7 
+120 53
+120 7 
+120 12
+120 7 
+120 7 
+121 5
+122 7 
+122 7 
+122 7 
+122 7 
+123 7 
+123 7 
+123 7 
+124 11
+124 6 
+124 6 
+124 6 
+125 7 
+125 7 
+125 7 
+126 8 
+126 8 
+126 8 
+126 8 
+127 8 
+127 8 
+127 8 
+127 8 
+127 8 
+128 7 
+129 51
+129 7 
+129 7 
+129 7 
+131 7 
+131 7 
+131 7 
+131 7 
+132 7 
+133 6 
+133 6 
+134 7 
+134 7 
+135 7 
+135 7 
+135 7 

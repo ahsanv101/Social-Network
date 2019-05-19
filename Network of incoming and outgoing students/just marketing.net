@@ -1,0 +1,314 @@
+*Vertices 135 ic Black 
+1 'Marketing' ic Black 
+2 'Club_Events' ic Black 
+3 'Advertisement' ic Black  
+4 'HU_School_Events' ic Black 
+5 'Aquaintance' ic Black 
+6 'Sindh Board' ic Black 
+7 'O/A Level Board' ic Black 
+8 'Agha Khan Board' ic Black 
+9 'Federal Board' ic Black 
+10 '1' ic Blue
+11 '2' ic Pink box
+12 '3' ic Pink box
+13 '4' ic Pink box
+14 '5' ic Blue
+15 '6' ic Blue
+16 '7' ic Blue
+17 '8' ic Pink box
+18 '9' ic Pink box
+19 '10' ic Pink box
+20 '11' ic Blue
+21 '12' ic Blue
+22 '13' ic Pink box
+23 '14' ic Blue
+24 '15' ic Blue
+25 '16' ic Blue
+26 '17' ic Pink triangle
+27 '18' ic Pink box
+28 '19' ic Pink box
+29 '20' ic Blue triangle
+30 '21' ic Blue
+31 '22' ic Blue
+32 '23' ic Blue
+33 '24' ic Pink box
+34 '25' ic Pink box
+35 '26' ic Blue box
+36 '27' ic Blue
+37 '28' ic Pink box
+38 '29' ic Pink triangle
+39 '30' ic Pink box
+40 '31' ic Blue
+41 '32' ic Blue
+42 '33' ic Pink box
+43 '34' ic Pink box
+44 '35' ic Pink
+45 '36' ic Blue box
+46 '37' ic Blue
+47 '38' ic Blue box
+48 '39' ic Pink box
+49 '40' ic Pink box
+50 '41' ic Blue box
+51 '42' ic Blue
+52 '43' ic Pink box
+53 '44' ic Blue triangle
+54 '45' ic Pink box
+55 '46' ic Blue
+56 '47' ic Pink box
+57 '48' ic Blue box
+58 '49' ic Blue box
+59 '50' ic Pink box
+60 '51' ic Pink box
+61 '52' ic Blue
+62 '53' ic Blue box
+63 '54' ic Pink triangle
+64 '55' ic Blue
+65 '56' ic Pink box
+66 '57' ic Pink box
+67 '58' ic Blue triangle
+68 '59' ic Blue box
+69 '60' ic Blue box
+70 '61' ic Blue
+71 '62' ic Blue triangle
+72 '63' ic Blue
+73 '64' ic Blue
+74 '65' ic Pink box
+75 '66' ic Blue box
+76 '67' ic Blue
+77 '68' ic Blue box
+78 '69' ic Blue
+79 '70' ic Blue
+80 '71' ic Pink box
+81 '72' ic Blue
+82 '73' ic Pink
+83 '74' ic Pink box
+84 '75' ic Blue
+85 '76' ic Blue
+86 '77' ic Pink box
+87 '78' ic Pink
+88 '79' ic Blue
+89 '80' ic Blue triangle
+90 '81' ic Pink
+91 '82' ic Blue box
+92 '83' ic Blue
+93 '84' ic Blue
+94 '85' ic Pink
+95 '86' ic Pink
+96 '87' ic Blue
+97 '88' ic Blue
+98 '89' ic Blue box
+99 '90' ic Blue box
+100 '91' ic Pink box
+101 '92' ic Blue
+102 '93' ic Blue
+103 '94' ic Pink box
+104 '95' ic Blue box
+105 '96' ic Pink box
+106 '97' ic Blue
+107 '98' ic Blue triangle
+108 '99' ic Blue
+109 '100' ic Blue triangle
+110 '101' ic Pink triangle
+111 '102' ic Pink box
+112 '103' ic Pink triangle
+113 '104' ic Pink box
+114 '105' ic Blue box
+115 '106' ic Pink
+116 '107' ic Blue box
+117 '108' ic Blue box
+118 '109' ic Blue box
+119 '110' ic Blue
+120 '111' ic Pink
+121 '112' ic Pink box
+122 '113' ic Pink box
+123 '114' ic Pink
+124 '115' ic Blue box
+125 '116' ic Pink box
+126 '117' ic Blue box
+127 '118' ic Blue
+128 '119' ic Blue
+129 '120' ic Blue box
+130 '121' ic Blue
+131 '122' ic Blue
+132 '123' ic Blue
+133 '124' ic Green
+134 '125' ic Blue
+135 '126' ic Blue
+*Arcslist 
+10 1 
+10 5 
+12 1 
+12 2 
+13 57
+14 12
+14 5 
+15 5 
+16 5 
+17 5 
+18 2 
+18 5 
+19 5
+19 1 
+19 5 
+20 1 
+20 5 
+21 1 
+21 2 
+22 1 
+22 5 
+23 5 
+24 4 
+25 2 
+25 5 
+26 5 
+27 4 
+28 5 
+29 1 
+30 1 
+31 2 
+32 1 
+32 5 
+33 1 
+34 1 
+34 4 
+35 69
+35 1 
+36 5 
+37 51
+37 1 
+37 5 
+39 1 
+41 1 
+43 4 
+43 5 
+44 5 
+45 1 
+46 1 
+47 72
+48 1 
+48 4 
+49 5 
+52 1 
+52 4 
+53 1 
+53 2 
+55 1 
+56 5 
+57 5 
+58 5 
+59 1 
+60 67
+61 1 
+61 2 
+61 4 
+61 5 
+62 53
+63 5 
+64 5 
+65 5
+65 4 
+65 5 
+66 5 
+67 108
+67 5 
+68 67
+68 83
+68 1 
+68 5 
+69 1 
+70 5 
+71 5 
+72 12
+72 1 
+73 1 
+73 5 
+74 4 
+75 83
+75 5 
+76 4 
+76 5 
+77 27
+78 5 
+79 1 
+79 5 
+80 1 
+82 77
+82 4 
+83 4 
+83 5 
+85 1 
+85 5 
+86 1 
+86 5 
+87 5 
+88 1 
+88 5 
+89 1 
+91 67
+91 1 
+91 5 
+92 1 
+93 5 
+94 1 
+95 15
+95 71
+95 98
+95 5 
+96 108
+96 1 
+96 5 
+97 5 
+98 5 
+99 2 
+99 5 
+100 1 
+100 4 
+101 2 
+101 4 
+101 5 
+102 1 
+102 5 
+103 77
+104 2 
+105 5 
+106 5 
+107 1 
+107 4 
+107 5 
+108 53
+108 5 
+109 103
+109 1 
+111 1 
+112 1 
+113 1 
+114 1 
+115 2 
+115 4 
+115 5 
+119 3 
+119 5 
+120 53
+120 12
+120 5 
+121 5
+121 5 
+123 3 
+124 11
+124 5 
+125 3 
+125 5 
+126 5 
+127 5 
+128 5 
+129 51
+129 5 
+130 5 
+131 3 
+131 5 
+132 5 
+134 2 
+134 4 
+134 5 
+135 3 
+135 4 
